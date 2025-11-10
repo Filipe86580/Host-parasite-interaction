@@ -6,8 +6,6 @@
 
 This repository contains scripts and data for the network analysis of host–parasite interactions between nematodes and non-volant small mammals in Brazil. The scripts enable modularity, nestedness, specialization, compound topology, and species role analysis using bipartite network approaches, as described in the corresponding systematic review.
 
-**Authors**: Gabriel M. Felix, Rafael B. P. Pinheiro, Marco A. R. Mello  
-**Lab**: Ecological Synthesis Lab (SintECO)
 
 ## Directory Structure
 
