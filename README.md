@@ -6,6 +6,15 @@
 
 This repository contains scripts and data for the network analysis of host–parasite interactions between nematodes and non-volant small mammals in Brazil. The scripts enable modularity, nestedness, specialization, compound topology, and species role analysis using bipartite network approaches, as described in the corresponding systematic review.
 
+## Script adapted 
+Script adapted from Mello et al., 2013; 2019 and Pinheiro et al., 2022
+
+Mello, M.A.R., Bezerra, E.L.S., Machado, I.C., 2013. Functional Roles of Centridini Oil Bees and Malpighiaceae Oil Flowers in Biome-wide Pollination Networks. Biotropica 45, 45–53. https://doi.org/10.1111/j.1744-7429.2012.00899.x
+
+Mello, M.A.R., Felix, G.M., Pinheiro, R.B.P., Muylaert, R.L., Geiselman, C., Santana, S.E., Tschapka, M., Lotfi, N., Rodrigues, F.A., Stevens, R.D., 2019. Insights into the assembly rules of a continent-wide multilayer network. Nat Ecol Evol 3, 1525–1532. https://doi.org/10.1038/s41559-019-1002-3
+
+Pinheiro, R.B.P., Felix, G.M.F., Lewinsohn, T.M., 2022. Hierarchical compound topology uncovers complex structure of species interaction networks. Journal of Animal Ecology 91, 2248–2260. https://doi.org/10.1111/1365-2656.13806
+
 
 ## Directory Structure
 
